@@ -8,9 +8,9 @@
 </div>
 
 <p align="center">
-  <img src="monet_generator_fastapi/samples/sample_0_input.jpg" width="350" alt="Input Image"/>
+  <img src="monet_generator_fastapi/samples/sample_1_input.jpg" width="350" alt="Input Image"/>
   ➡️
-  <img src="monet_generator_fastapi/samples/sample_0_output.jpg" width="350" alt="Output Monet-style Image"/>
+  <img src="monet_generator_fastapi/samples/sample_1_output.jpg" width="350" alt="Output Monet-style Image"/>
 </p>
 
 ## 📖 Overview
